@@ -14,4 +14,7 @@ node index.js
 
 por ultimo te saldra un mensaje diciendo server is listening on port 3000 y conectado a mongodb, luego de esto pon la siguiente direccion en el navegador.
 
+
 localhost:3000/index.html
+
+disfruta!!!!!
